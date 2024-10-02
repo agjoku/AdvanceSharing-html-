@@ -1,4 +1,4 @@
-advancement_ja.csvに記載された進捗をブラウザにすべて表示します。
-advancements.csvとadvancement_ja.csvの進捗名を比べ、advancement_ja.csvに記載されている進捗名がadvancements.csvに記載されていた場合、advancements.csvのデータを用いて達成者、日付、時刻を表示します。
-進捗達成時枠の色が、進捗が通常なら黄色、目標なら緑、挑戦なら紫色に変化します。
-進捗をデータパックで追加する場合は、advancement_ja.csvに進捗情報を追記することで増やせます。
+advancement_ja.csvに記載された進捗をブラウザにすべて表示します。<br>
+advancements.csvとadvancement_ja.csvの進捗名を比べ、advancement_ja.csvに記載されている進捗名がadvancements.csvに記載されていた場合、advancements.csvのデータを用いて達成者、日付、時刻を表示します。<br>
+進捗達成時枠の色が、進捗が通常なら黄色、目標なら緑、挑戦なら紫色に変化します。<br>
+進捗をデータパックで追加する場合は、advancement_ja.csvに進捗情報を追記することで増やせます。<br>マインクラフトの進捗画面に表示する画像はimagesにまとめているので、追加する場合は各自で画像を用意する必要があります。
